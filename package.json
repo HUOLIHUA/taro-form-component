@@ -1,0 +1,19 @@
+{
+  "name": "taro-form-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUOLIHUA/taro-form-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUOLIHUA/taro-form-component/issues"
+  },
+  "homepage": "https://github.com/HUOLIHUA/taro-form-component#readme"
+}
